@@ -1,6 +1,6 @@
 <!-- Animated Banner (SVG or GIF, pick one, add your own) -->
 <p align="center">
-  <img src="https://i.giphy.com/pUVOeIagS1rrqsYQJe.webp" width="600" alt="Bussin' coder vibes"/>
+  <img src="https://i.giphy.com/pUVOeIagS1rrqsYQJe.webp" width="300" alt="Bussin' coder vibes"/>
 </p>
 
 # 🧑‍🚀 Neel Singh
