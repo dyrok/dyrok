@@ -8,7 +8,7 @@
 <h2 align="center">my brain needs its own zipcode atp</h2>
 <p align="center"><b>Gen Z | Fullstack Degen | Meme Machine | he/him</b></p>
 <p align="center">
-  <a href="http://fivexfast.com/">Portfolio</a> · 
+  <a href="http://fivexfast.com/">Website</a> · 
   <a href="https://linkedin.com/in/neel-prabir-singh-b11512249/">LinkedIn</a> · 
   <a href="https://instagram.com/dyrokg">Instagram</a>
 </p>
