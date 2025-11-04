@@ -1,7 +1,4 @@
-<!-- Animated Banner (SVG or GIF, pick one, add your own) -->
-<p align="center">
-  <img src="https://i.giphy.com/pUVOeIagS1rrqsYQJe.webp" width="300" alt="Bussin' coder vibes"/>
-</p>
+
 
 # 🧑‍🚀 Neel Singh
 
@@ -55,6 +52,11 @@
 ---
 
 ## 🤙 Let's Connect
+
+<!-- Animated Banner (SVG or GIF, pick one, add your own) -->
+<p align="center">
+  <img src="https://i.giphy.com/pUVOeIagS1rrqsYQJe.webp" width="300" alt="Bussin' coder vibes"/>
+</p>
 
 - DM me to collab, hack, vibe, or shitpost. Recruiters: Don't bother if your JD is mid.
 - All code, zero beige flag.
