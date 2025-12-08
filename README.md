@@ -6,8 +6,8 @@
 <p align="center"><b>Fullstack Degen | Meme Machine | he/him</b></p>
 <p align="center">
   <a href="http://fivexfast.com/">Website</a> · 
-  <a href="https://linkedin.com/in/neel-prabir-singh-b11512249/">LinkedIn</a> · 
-  <a href="https://instagram.com/dyrokg">Instagram</a>
+  <a href="https://www.linkedin.com/in/neelpsingh/">LinkedIn</a> · 
+  <a href="https://x.com/uneedstherapy">x</a>
 </p>
 
 ## 🚀 About
