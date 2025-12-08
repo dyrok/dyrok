@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 About
-- Student @ ISU BTech CSE, professional brainrot dealer.
+- Student @ ISU SFT BTech CSE, professional brainrot dealer.
 - React, TypeScript, Python, Solidity and whatever’s **bussin’** this era.
 - If it’s automatable? I’ve probably written a script for it.
 - Most of my code has more rizz than your average hinge date.
