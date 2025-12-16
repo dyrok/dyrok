@@ -2,8 +2,8 @@
 
 # 🧑‍🚀 Neel Singh
 
-<h2 align="center">my brain needs its own zipcode atp</h2>
-<p align="center"><b>Fullstack Degen | Meme Machine | he/him</b></p>
+<h2 align="center">i love to code</h2>
+<p align="center"><b>Fullstack | fun guy | he/him</b></p>
 <p align="center">
   <a href="http://fivexfast.com/">Website</a> · 
   <a href="https://www.linkedin.com/in/neelpsingh/">LinkedIn</a> · 
@@ -11,10 +11,10 @@
 </p>
 
 ## 🚀 About
-- Student @ ISU SFT BTech CSE, professional brainrot dealer.
+- Student @ ISU SFT BTech CSE.
+- UI/UX Designer at Fivexfast Digital Marketing Solutions LLP.
 - React, TypeScript, Python, Solidity and whatever’s **bussin’** this era.
 - If it’s automatable? I’ve probably written a script for it.
-- Most of my code has more rizz than your average hinge date.
 
 ## 🛠️ Toolbox Flex (Skills)
 
