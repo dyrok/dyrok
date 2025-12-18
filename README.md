@@ -15,6 +15,8 @@
 - UI/UX Designer at Fivexfast Digital Marketing Solutions LLP.
 - React, TypeScript, Python, Solidity and whatever’s **bussin’** this era.
 - If it’s automatable? I’ve probably written a script for it.
+- my code has more rizz than your hinge acc unc
+- keep me away from your bih
 
 ## 🛠️ Toolbox Flex (Skills)
 
