@@ -28,6 +28,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
+![Xposed Framework](https://img.shields.io/badge/-Xposed%20Framework-black?style=for-the-badge)
+
 
 
 ---
