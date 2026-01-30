@@ -72,4 +72,5 @@
 </p>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yh1ollbbua9hnjtt8vt7kuo94&width={fill})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yh1ollbbua9hnjtt8vt7kuo94)
