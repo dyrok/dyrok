@@ -71,6 +71,5 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00F7&center=true&vCenter=true&width=435&lines=Code+like+a+GOAT;Touch+grass+never;Automate+everything;Meme+first%2C+ship+later" alt="Typing SVG" />
 </p>
 
-## 🎧 What's Playing RN
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yh1ollbbua9hnjtt8vt7kuo94)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yh1ollbbua9hnjtt8vt7kuo94&width={fill})
