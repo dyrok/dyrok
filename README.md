@@ -73,4 +73,4 @@
 
 ## 🎧 What's Playing RN
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=yh1ollbbua9hnjtt8vt7kuo94&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/yh1ollbbua9hnjtt8vt7kuo94)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yh1ollbbua9hnjtt8vt7kuo94)
