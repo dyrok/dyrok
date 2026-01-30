@@ -70,3 +70,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00F7&center=true&vCenter=true&width=435&lines=Code+like+a+GOAT;Touch+grass+never;Automate+everything;Meme+first%2C+ship+later" alt="Typing SVG" />
 </p>
+
+## 🎧 What's Playing RN
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=yh1ollbbua9hnjtt8vt7kuo94&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/yh1ollbbua9hnjtt8vt7kuo94)
